@@ -1,0 +1,41 @@
+/* .red-heading {
+    color: red
+} */
+
+/* Attribute Selector */
+/* p[draggable] {
+    color: red;
+} */
+
+/* p[draggable="false"] {
+    color: red;
+} */
+
+
+/* Universal Selector */
+/* * {
+    color: red;
+} */
+
+
+/* Element Selector */
+/* h1 {
+    color: green;
+} */
+
+
+/* Class Selector */
+/* .hello {
+    color: green;
+} */
+
+
+/* Id Selector */
+/* #main {
+    color: blueviolet;
+} */
+
+
+h1 {
+    color: red;
+}
